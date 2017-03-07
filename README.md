@@ -1,12 +1,14 @@
-*Remove W3Schools*
+*Remove Namuwiki*
+
+Adapted from Guillermo Maiolo's *[Remove W3Schools](https://github.com/GMaiolo/remove-w3schools)*
+
 =====
-**[Install straight from the Chrome webstore](https://chrome.google.com/webstore/detail/remove-w3schools/gohnadkcefpdhblajddfnhapimpdjkje)**
 
-![Remove W3Schools logo](https://github.com/GMaiolo/remove-w3schools/blob/master/images/icon128.png)
+Chrome extension that removes Namuwiki results in google searches.
+나무위키 문서를 구글 검색 결과에서 안 보이게 해주는 크롬 플러그인
 
-_Chrome plugin to remove W3Schools results in google searches_
-
-+ **Feel free to open issues or send pull requests for improvements/suggestions/bugs.**
+Todo: write about rationale behind hiding Namuwiki results.
+할일: 왜 나무위키 문서를 안 보고 싶은지, 프로젝트 의도 설명
 
 Manual Installation: 
 
