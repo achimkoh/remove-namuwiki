@@ -1,5 +1,5 @@
 (function() {
-    var W3SchoolsRemover = {
+    var NamuwikiRemover = {
         currentUrl: {}, 
         constants: {
             queries: {
@@ -13,7 +13,7 @@
                 active: 'active'
             }, 
             console: {
-                needs_to_be_updated: 'W3SchoolsRemover selectors need to be updated!', 
+                needs_to_be_updated: 'NamuwikiRemover selectors need to be updated!', 
                 removed: 'Namuwiki links were removed from this search.'
             }, 
             observerConfig: { childList: true, subtree: true }
@@ -76,6 +76,6 @@
         }
     };
 
-    W3SchoolsRemover.init();
+    NamuwikiRemover.init();
 
 })();
