@@ -2,6 +2,7 @@
 =====
 
 Adapted from Guillermo Maiolo's *[Remove W3Schools](https://github.com/GMaiolo/remove-w3schools)*
+=======
 
 Chrome extension that removes Namuwiki results in google searches.    
 나무위키 문서를 구글 검색 결과에서 안 보이게 해주는 크롬 플러그인
